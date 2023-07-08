@@ -1,0 +1,4 @@
+{capital}+|{small}+ {words++;}
+
+small [a-z]
+capital [A-Z]

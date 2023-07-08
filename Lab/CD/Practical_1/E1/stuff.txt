@@ -1,0 +1,17 @@
+/* For KEYWORDS */
+
+/*
+    {ECHO; printf("\tKEYWORD\n");}
+    This is another way of printing the contents of yytext.
+    When lexical analyzer finds a match in the input stream,
+    the program puts the matched string into yytext.
+*/
+
+/* For IDENTIFIERS */
+
+/* For OPERATORS */
+
+/* For SYMBOLS */
+
+
+/* For STRINGS */
